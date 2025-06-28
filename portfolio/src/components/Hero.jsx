@@ -1,7 +1,6 @@
 import React from 'react'
 import picture from "../assets/mypic.png"
 
-
 function Hero() {
   return (
     <div className="top-0 left-0 flex bg-black justify-center grid-background w-full min-h-[90vh]">
