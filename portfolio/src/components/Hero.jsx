@@ -14,6 +14,8 @@ function Hero() {
           <p className='text-white text-5xl my-8 '>Hi i'm <b className='p-3 rounded-full shadow-md shadow-red-400 bg-red-500'>Jedidiah</b> </p>
           <p className='text-white text-4xl mb-4 '>a web developer</p>
           <p className='text-white px-12 md:px-0 text-center md:text-left '>I specialize in transforming complex designs into visually captivating, user-friendly websites that engage and inspire audiences.</p>
+          <button className=".
+          cursor-pointer shadow-md shadow-red-400 text-white hover:scale-105 bg-red-500 p-2 rounded-full font-semibold">Download CV</button>
         </div>
 
 
