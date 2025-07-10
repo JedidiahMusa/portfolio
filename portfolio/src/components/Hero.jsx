@@ -10,7 +10,7 @@ function Hero() {
             Hi i'm{" "}
             <button className="p-3 text-[] rounded-full cursor-pointer hover:scale-110 centered-shadow ">
               Jedidiah
-            </button>{" "}
+            </button>{""}
           </p>
           <p className="text-white text-4xl mb-4 ">a web developer</p>
           <p className="text-white px-12 md:px-0 text-center md:text-left ">
