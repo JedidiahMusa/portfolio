@@ -7,7 +7,6 @@ import { IoIosMail } from "react-icons/io";
 function Navbar() {
   const [isOpen, setOpen] = useState(false);
   const year = Date.now;
-
   return (
     <>
       <div className="w-full pt-8 bg-black ">
