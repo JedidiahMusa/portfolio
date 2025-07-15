@@ -8,7 +8,7 @@ function Hero() {
         <div className="flex flex-col items-center min-h-[50vh] md:h-full justify-center md:items-start w-full ">
           <p className="text-white text-5xl my-8 ">
             Hi i'm{" "}
-            <button className="p-3 text-[] rounded-full cursor-pointer hover:scale-110 centered-shadow ">
+            <button className="p-4 text-4xl border-1 border-red-800 rounded-full cursor-pointer hover:scale-110 centered-shadow ">
               Jedidiah
             </button>{" "}
           </p>
@@ -19,15 +19,14 @@ function Hero() {
             audiences.
           </p>
           <button
-            className=".
-          cursor-pointer text-white hover:scale-105 bg-red-500 p-2 rounded-full font-semibold"
+            className="my-4 p-3 cursor-pointer text-white hover:scale-105 bg-red-500 rounded-full font-semibold"
           >
             Download CV
           </button>
         </div>
 
         <div className="h-full w-full flex items-center justify-center ">
-          <div className="w-[25rem] h-[25rem] border-1 centered-shadow overflow-hidden border-red-300 rounded-full ">
+          <div className="w-[25rem] md:w-[30rem] md:h-[30rem] lg:w-[35rem] lg:h-[35rem] h-[25rem] border-1 centered-shadow overflow-hidden border-red-600 rounded-full ">
             <img src={picture} alt="" className="object-contain w-full h-full " />
           </div>
         </div>
