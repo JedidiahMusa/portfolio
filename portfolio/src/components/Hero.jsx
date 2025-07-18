@@ -25,6 +25,7 @@ function Hero() {
           </button>
         </div>
 
+        
         <div className="h-full w-full flex items-center justify-center ">
           <div className="w-[25rem] md:w-[30rem] md:h-[30rem] lg:w-[35rem] lg:h-[35rem] h-[25rem] border-1 centered-shadow overflow-hidden border-red-600 rounded-full ">
             <img src={picture} alt="" className="object-contain w-full h-full " />
