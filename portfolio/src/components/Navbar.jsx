@@ -12,7 +12,6 @@ function Navbar() {
       <div className="w-full pt-8 bg-black ">
         <nav className="h-16 w-[90%] mx-auto flex justify-between items-center rounded-3xl px-4 bg-white ">
           <p className="font-bold text-black text-2xl ">JED</p>
-
           <ul className="md:flex gap-4 hidden">
             <li>About</li>
             <li>Projects</li>
